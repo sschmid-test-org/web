@@ -97,3 +97,5 @@ promote its widespread use.
 This module is part of the `OCA/web <https://github.com/OCA/web/tree/12.0/web_dialog_size>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.
+
+tets
